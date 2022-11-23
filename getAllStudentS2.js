@@ -1,6 +1,4 @@
 //获取所有学生信息
-
-getAllStudents();
 function getAllStudents(){
 var jsonArray = [];
 var stustatus=0
